@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="zero_dp">0dp</dimen>
+    <dimen name="one_dp">1.00dp</dimen>
+    <dimen name="two_dp">2.00dp</dimen>
+    <dimen name="three_dp">3.00dp</dimen>
+    <dimen name="four_dp">4.00dp</dimen>
+    <dimen name="five_dp">5.00dp</dimen>
+    <dimen name="six_dp">6.00dp</dimen>
+    <dimen name="seven_dp">7.00dp</dimen>
+    <dimen name="eight_dp">8.00dp</dimen>
+    <dimen name="nine_dp">9.00dp</dimen>
+    <dimen name="ten_dp">10.00dp</dimen>
+    <dimen name="eleven_dp">11.00dp</dimen>
+    <dimen name="twelev_dp">12.00dp</dimen>
+    <dimen name="thirteen_dp">13.00dp</dimen>
+    <dimen name="fourteen_dp">14.00dp</dimen>
+    <dimen name="fifteen_dp">15.00dp</dimen>
+    <dimen name="sixteen_dp">16.00dp</dimen>
+    <dimen name="seventeen_dp">17.00dp</dimen>
+    <dimen name="eighteen_dp">18.00dp</dimen>
+    <dimen name="nineteen_dp">19.00dp</dimen>
+    <dimen name="twenty_dp">20.00dp</dimen>
+    <dimen name="twenty_four_dp">24.00dp</dimen>
+    <dimen name="twenty_five_dp">25.00dp</dimen>
+    <dimen name="twenty_eight_dp">28dp</dimen>
+    <dimen name="thirty_dp">30.00dp</dimen>
+    <dimen name="thirty_five_dp">35.00dp</dimen>
+    <dimen name="forty_dp">40.00dp</dimen>
+    <dimen name="fortyeight_dp">48.00dp</dimen>
+    <dimen name="fifty_dp">50.00dp</dimen>
+    <dimen name="fifty_six_dp">56.00dp</dimen>
+    <dimen name="sixty_dp">60.00dp</dimen>
+    <dimen name="sixtyfour_dp">64.00dp</dimen>
+    <dimen name="seventy_dp">70.00dp</dimen>
+    <dimen name="eighty_dp">80.00dp</dimen>
+    <dimen name="ninety_dp">90.00dp</dimen>
+    <dimen name="hundred_dp">100.00dp</dimen>
+    <dimen name="hundred_ten_dp">110.00dp</dimen>
+    <dimen name="hundred_twenty_dp">120.00dp</dimen>
+    <dimen name="hundred_fifty_dp">150.00dp</dimen>
+    <dimen name="one_eighty_dp">180.00dp</dimen>
+    <dimen name="two_hundred_dp">200.00dp</dimen>
+    <dimen name="two_twenty_hundred_dp">220.00dp</dimen>
+    <dimen name="two_forty_dp">240.00dp</dimen>
+    <dimen name="three_hundred_dp">300.00dp</dimen>
+    <dimen name="three_hundred_six_dp">360.00dp</dimen>
+    <dimen name="four_hundred">400.00dp</dimen>
+
+    <dimen name="five_hundred">500.00dp</dimen>
+
+    <dimen name="two_forty_five_dp">245dp</dimen>
+
+    <!--Animation Location Fetching-->
+    <dimen name="rippleStrokeWidth">2dp</dimen>
+    <dimen name="rippleRadius">64dp</dimen>
+    <!--Animation Location Fetching-->
+
+    <!--svg-->
+    <!--CollapsingToolbar-->
+    <dimen name="spacing_normal">16dp</dimen>
+    <dimen name="image_width">60dp</dimen>
+    <!--CollapsingToolbar-->
+
+    <!-- Default radius for CardView corners. -->
+    <dimen name="opt_round_card_view_default_radius">2dp</dimen>
+    <!-- Elevation value to use for CardViews. Pre-L, it is equal to shadow size. -->
+    <dimen name="opt_round_card_view_default_elevation">2dp</dimen>
+    <!-- Inset shadow for RoundRectDrawableWithShadow. It is used to avoid gaps between the card
+     and the shadow. -->
+    <dimen name="opt_round_card_view_compat_inset_shadow">1dp</dimen>
+    <dimen name="actionBarSize">48dp</dimen>
+    <!-- section header height -->
+
+    <dimen name="smallestestTextSize">8sp</dimen>
+    <dimen name="smallestTextSize">10sp</dimen>
+    <dimen name="smallerTextSize">11sp</dimen>
+    <dimen name="bodyTextSize">12sp</dimen>
+    <dimen name="subHeaderTextSize">13sp</dimen>
+    <dimen name="headerTextSize">14sp</dimen>
+    <dimen name="bigHeadertextSize">15sp</dimen>
+    <dimen name="bigerTextSize">18sp</dimen>
+    <dimen name="biggerSize">21sp</dimen>
+    <dimen name="biggestSize">28sp</dimen>
+
+</resources>
